@@ -7,7 +7,7 @@ A Python tool that reads a list of ETFs from a spreadsheet, downloads their pric
 - **etf_results.xlsx**: funds grouped under your headings, a sortable sheet of all funds, a sector summary, a correlation table and charts
 - **etf_portfolio_builder.html**: open it in your browser to pick ETFs, set weights, add money regularly and see how the portfolio would have grown
 - **growth_chart.png** and **risk_return_chart.png**
--    ![Portfolio builder](portfolio-builder.png)
+ ![Portfolio builder](portfolio-builder.png)
 
 For each fund it calculates total return, annual return, volatility, maximum drawdown and return per unit of risk. Prices are adjusted for distributions, so returns are total returns.
 
