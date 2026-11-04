@@ -57,6 +57,6 @@ python3 etf_analyser.py --funds mylist.xlsx --out mylist
 
 ## Notes
 
-- Price data comes from Yahoo Finance via the `yfinance` library. It is free and unofficial, so check anything important elsewhere.
+- Price data comes from Yahoo Finance via the `yfinance` library. 
 - Funds Yahoo has no price history for are still listed, marked "No price data found".
 - Past performance does not predict future performance. This is not financial advice.
