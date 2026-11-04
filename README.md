@@ -30,7 +30,7 @@ Run it again any time to refresh the prices. The "as of" date and time is shown 
 
 ## Choosing your funds
 
-The funds come from `funds.xlsx`. It starts with Global X's 53 ETFs (Fund Map, July 2026). Edit the spreadsheet to analyse different ETFs:
+The funds come from `funds.xlsx`. It starts with Global X Australia 53 ETFs (Fund Map, July 2026). Edit the spreadsheet to analyse different ETFs:
 
 | Column | Notes |
 | --- | --- |
